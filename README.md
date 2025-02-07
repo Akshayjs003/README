@@ -24,7 +24,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/alans_olly" target="blank"
+  <a href="https://instagram.com/3huntur_5chronicles" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -103,14 +103,14 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alanantony6174&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshayjs003&show_icons=true&locale=en&layout=compact"
     alt="Akshayjs003"
   />
 </p>
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alanantony6174&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayjs003&"
     alt="Akshayjs003"
   />
 </p>
