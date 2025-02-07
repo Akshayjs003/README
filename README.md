@@ -2,7 +2,7 @@
 <h3 align="center">Robotics And Automation Engineer</h3>
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=alanantony6174&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Akshayjs003&label=Profile%20views&color=0e75b6&style=flat"
     alt="Akshayjs003"
   />
 </p>
